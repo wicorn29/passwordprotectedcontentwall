@@ -1,8 +1,5 @@
+poop = prompt("What is the password?", "https://scratch.mit.edu");
 
-
-
-poop = prompt("What is the password WIl gave you?", "");
-
-if(poop == "zopersoon01"{
-            window.location.href="https://sites.google.com/view/9274657492765701045-insession"
-        alert("Valid");
+if(poop == "bob"{
+            window.location.href=""
+        alert("OK SUSSY BUSSY! HERE U GO");
